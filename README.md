@@ -1,4 +1,10 @@
-## Hi there 👋
+## Forsooth, tis the profile of eppermintDev!
+
+- As a young spire it has occured that I hath enrolled in Centre of Tech and Steam.
+- It somewhat occurs that I write scripts for engines such as Roblox Studio and code for Godot.
+- The hobbies of mine include art and really really really really indepth research on the most useless thing ever.
+- Fun Fact:
+
 
 <!--
 **eppermintDev/eppermintDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
