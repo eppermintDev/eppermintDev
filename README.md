@@ -4,6 +4,25 @@
 - It somewhat occurs that I write scripts for engines such as Roblox Studio and code for Godot.
 - The hobbies of mine include art and really really really really indepth research on the most useless thing ever.
 - Fun Fact:
+                                   |\    /|     
+                              ___| \,,/_/     
+                           ---__/ \/    \     
+                          __--/     (D)  \    
+                          _ -/    (_      \   
+                         // /       \_ / ==\  
+   __-------_____--___--/           / \_ O o) 
+  /                                 /   \==/  
+ /                                 /          
+||          )                   \_/\          
+||         /              _      /  |         
+| |      /--______      ___\    /\  :         
+| /   __-  - _/   ------    |  |   \ \        
+ |   -  -   /                | |     \ )      
+ |  |   -  |                 | )     | |      
+  | |    | |                 | |    | |       
+  | |    < |                 | |   |_/        
+  < |    /__\                <  \             
+  /__\                       /___\ 
 
 
 <!--
